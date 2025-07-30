@@ -1,6 +1,6 @@
 ## 01.Quiz game :
 ## 02.Color-palette-generator :
-## 03.drag adn drop :
+## 03.drag and drop :
 ## 04.Expense-Tracker : https://expensetrackerinr.netlify.app/
 ## 05-bookmark-saver :
 ## 06-form-validator :
